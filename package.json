@@ -1,0 +1,24 @@
+{
+  "name": "gra",
+  "version": "0.1.0",
+  "description": "Othello game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --progress --colors --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haniac/gra.git"
+  },
+  "author": "Hanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haniac/gra/issues"
+  },
+  "homepage": "https://github.com/haniac/gra#readme",
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "webpack": "^1.12.14"
+  }
+}
